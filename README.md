@@ -1,6 +1,8 @@
 # VProfile Docker Compose Project
 
-A multi-tier Java web application (VProfile) containerized using Docker Compose. This project demonstrates containerization and orchestration of a complete web stack with database, caching, messaging, and search capabilities.
+A multi-tier Java web application (VProfile) containerized using Docker Compose. This project demonstrates containerization and orchestration of a complete web stack with database, caching, messaging, and search services.
+
+![Application Working](./application_working.png)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -20,7 +22,7 @@ A multi-tier Java web application (VProfile) containerized using Docker Compose.
 
 ## Overview
 
-VProfile is a web application built with Spring Framework that demonstrates the integration of multiple technologies in a containerized environment. The application is fully orchestrated using Docker Compose, allowing for easy deployment and scaling.
+VProfile is a web application built with Spring Framework that demonstrates the integration of multiple technologies in a containerized environment. The application is fully orchestrated using Docker Compose, showcasing best practices in containerization and service orchestration.
 
 ## Prerequisites
 
